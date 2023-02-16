@@ -122,7 +122,7 @@
             <h2 id="book-a-table" class="reservation__title">Book a table</h2>
         
         <div class="reservation__form">
-            <fieldset class="form__fieldset">
+        <fieldset class="form__fieldset">
                 <label for="name" class="form__label">Name *</label>
                 <input
                   type="text"
@@ -131,8 +131,8 @@
                   name="name"
                   placeholder="Name Surname"
                   required/>
-                <label for="number_of_guests" class="form__label">Number of Guests *</label>
-                <input
+            <label for="number_of_guests" class="form__label">Number of Guests *</label>
+              <input
                 type="number"
                 max="8"
                 min="1"
@@ -140,23 +140,26 @@
                 id="number_of_guests"
                 name="number of guests"
                 placeholder="1-8"
-                required/> 
-                <label for="date_&_time" class="form__label">Date & time *</label>
-                <input
+                required
+              /> 
+            <label for="date_&_time" class="form__label">Date & time *</label>
+              <input
                 type="datetime-local"
                 class="form__input"
                 id="date_&_time"
                 name="Date & time"
-                required/>
-                <label for="your_email" class="form__label">Your email *</label>
-                <input
+                required
+              />
+            <label for="your_email" class="form__label">Your email *</label>
+              <input
                 type="email"
                 class="form__input"
                 id="your_email"
                 name="your email"
                 placeholder="email@email.com"
-                required/>    
-          </fieldset>
+                required
+              />    
+        </fieldset>
           <fieldset class="form__fieldset-button">
             <button type="button" class="form__button">Book a table</button>
           </fieldset>
