@@ -67,7 +67,7 @@
 
   .span-accent{
     display: block;
-    font-family: Noto Serif;
+    font-family: Noto serif;
     font-style: italic;
     font-size:60px;
     line-height:72px;
@@ -81,11 +81,9 @@
     margin-top: 28px;
     margin-left: 80px;
     margin-bottom: 0;
-    font-family: Noto Serif;
+    font-family: Noto serif;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 30px;
     
   }
   
