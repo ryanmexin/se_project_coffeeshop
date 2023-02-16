@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I'd like to add more information to the recipes and the Menu options to give customers and online vistors more options. Adding more options could draw more attention to the shop and website.
