@@ -28,7 +28,7 @@
     text-align: center;
     width: 780px;
     padding-top: 24px;
-    font-family: Noto Serif;
+    font-family: Noto serif;
     font-style: normal;
     font-weight: normal;
     font-size: 20px;
@@ -62,7 +62,7 @@
 }
 
 .card__list{
-    font-family: Noto Serif;
+    font-family: Noto serif;
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -72,7 +72,6 @@
 
 .card__list-item{
    display: flex;
-   flex-direction: ;
    list-style: none;
    padding-top: 16px;
    
