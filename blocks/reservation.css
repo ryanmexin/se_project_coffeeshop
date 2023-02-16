@@ -28,8 +28,8 @@
 }
 .form__fieldset{
     display: flex;
-    flex-direction:  column;
-    margin: auto;;
+    flex-direction: column;
+    margin: auto;
     width: 385px;
     border: transparent;
 
@@ -113,7 +113,7 @@
     width: 385px;
     margin: auto;
     padding-bottom: 120px;
-    padding-top: 32px ;
+    padding-top: 32px;
     border: transparent;
 }
 
