@@ -18,7 +18,7 @@
   line-height: 72px;
   margin-top: 80px;
   margin-left: 80px;
-  font-family: "Inter", "Arial" "sans-serif";
+  font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: 500;
   margin-bottom: 0px;
@@ -40,7 +40,7 @@
   margin-top: 28px;
   margin-left: 80px;
   margin-bottom: 0;
-  font-family: "Noto serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
 }
@@ -63,7 +63,7 @@
   padding: 40px 80px 0;
   justify-content: space-between;
   box-sizing: border-box;
-  font-family: "Inter", "Arial" "sans-serif";
+  font-family: "Inter", "Arial", sans-serif;
   margin: auto;
   color: #6f6f6f;
 }
