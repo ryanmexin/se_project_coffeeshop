@@ -44,7 +44,7 @@
   border: transparent;
   padding: 0px;
 }
-.form__button_theme {
+.form__button_theme_color {
   background-color: #2f80ed;
   display: flex;
   justify-content: center;
@@ -74,7 +74,7 @@
   padding: 0;
 }
 
-.form__fieldset_checkbox {
+.form__fieldset_type_checkbox {
   display: flex;
   vertical-align: middle;
   flex-direction: row;
@@ -88,7 +88,7 @@
   border: transparent;
 }
 
-::placeholder {
+.form__input::placeholder {
   font-family: "Inter", "Arial", sans-serif;
   font-style: normal;
   font-weight: normal;

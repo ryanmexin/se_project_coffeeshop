@@ -22,6 +22,8 @@
   font-style: normal;
   font-weight: 500;
   margin-bottom: 0px;
+  position: relative;
+  z-index: 2;
 }
 
 .header__span-accent {
@@ -73,9 +75,10 @@
   flex-wrap: wrap;
   align-items: flex-end;
   margin: auto;
+  font-weight: 500;
 }
 
-.header__address {
+.header__paragraph_address_view {
   display: flex;
   justify-content: flex-end;
   align-self: flex-end;
